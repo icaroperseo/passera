@@ -1,0 +1,6 @@
+[submodule "src/github.com/howeyc/gopass"]
+	path = src/github.com/howeyc/gopass
+	url = git@github.com:howeyc/gopass.git
+[submodule "src/github.com/atotto/clipboard"]
+	path = src/github.com/atotto/clipboard
+	url = git@github.com:atotto/clipboard.git
